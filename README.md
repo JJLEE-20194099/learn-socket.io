@@ -1,0 +1,1 @@
+# This is a project about how i learn socket.io to apply realtime applications 
